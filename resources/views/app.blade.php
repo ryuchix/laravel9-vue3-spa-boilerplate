@@ -14,6 +14,7 @@
 
 <body class="antialiased">
     <div id="app" class="min-h-screen bg-gray-100"></div>
+    <script src="{{ mix('js/bundle.js') }}"></script>
 </body>
 
 </html>
